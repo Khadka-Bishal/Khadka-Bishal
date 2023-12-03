@@ -7,7 +7,7 @@
 <a>
 <img align="right" src="https://miro.medium.com/max/628/1*bNJu2vdL40kXkBgi9Tl0ew.png" alt="Pic" height="300" width="300" />
 </a>
-
+👨‍🎓 Student at Colby College
 
 🤔 Curious to learn how things work
 
