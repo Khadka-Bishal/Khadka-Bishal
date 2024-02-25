@@ -14,8 +14,6 @@
 
 🌱 I’m currently learning MySQL
 
-👨‍💻  I’m looking for software engineering internships
-
 **Know About My Experiences**
 - Student Web Developer @ Colby College <a href="https://www.colby.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1> 
 - Software Developer Intern @ National Innovation Center <a href="https://nicnepal.org"><img align="center" src="https://nicnepal.org/static/media/images/NIC-logo.original.png" alt="GFW" height="40" width="80" /></a> </h1>
