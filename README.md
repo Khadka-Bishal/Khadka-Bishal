@@ -12,7 +12,7 @@
 
 🤔 Curious to learn how things work
 
-🌱 I’m currently learning Rust
+🌱 I’m currently learning Rust, Bash, and Computer Networks
 
 **Know About My Experiences**
 - Student Web Developer @ Colby College <a href="https://www.colby.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1> 
