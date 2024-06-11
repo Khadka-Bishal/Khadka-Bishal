@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Bishal Khadka <a href="https://www.linkedin.com/in/khadka-bishal/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" height="25" width="25" /></a> </h1> 
 
-<p align = "center"> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=350&width=435&lines=AN+ASPIRING+SOFTWARE+ENGINEER" alt="AN ASPIRING SOFTWARE ENGINEER" /></a> </p>
+<p align = "center"> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=350&width=300&lines=A+SOFTWARE+ENGINEER" alt="SOFTWARE ENGINEER" /></a> </p>
 
 **About Me**
 
