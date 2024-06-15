@@ -9,16 +9,6 @@
 - 🛠️ I’m currently learning Rust, Bash, and Computer Networks
 
 
-
-**Know About My Experiences**
-- Student Web Developer @ Colby College <a href="https://www.colby.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1> 
-- Software Developer Intern @ National Innovation Center <a href="https://nicnepal.org"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHqzP-gRVgF2IiysYmyi-TEihKgAHhFYwag&s" alt="GFW" height="40" width="80" /></a> </h1>
-- Data Analytics Intern @ Global Forest Watch <a href="https://www.globalforestwatch.org"><img align="center" src="https://content.globalforestwatch.org/wp-content/uploads/2020/06/Group-11@2x-1.png" alt="GFW" height="40" width="40" /></a> </h1>
-- Computer Science Research Assistant @ Colby College <a href="https://www.colby.edu/research/"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1>  
-
-- Teaching Assistant & Tutor @ Colby College <a href="https://www.colby.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1> 
-- Data Science Summer Research Assistant @ Colby College <a href="https://www.colby.edu/research/"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1>  
-
 ### ⚡ Languages and Frameworks
 <table>
   <tr>
@@ -118,6 +108,14 @@
   </tr>
 </table>
 
+### 🧑‍💻Know About My Experiences
+- Student Web Developer @ Colby College <a href="https://www.colby.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1> 
+- Software Developer Intern @ National Innovation Center <a href="https://nicnepal.org"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHqzP-gRVgF2IiysYmyi-TEihKgAHhFYwag&s" alt="GFW" height="40" width="80" /></a> </h1>
+- Data Analytics Intern @ Global Forest Watch <a href="https://www.globalforestwatch.org"><img align="center" src="https://content.globalforestwatch.org/wp-content/uploads/2020/06/Group-11@2x-1.png" alt="GFW" height="40" width="40" /></a> </h1>
+- Computer Science Research Assistant @ Colby College <a href="https://www.colby.edu/research/"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1>  
+
+- Teaching Assistant & Tutor @ Colby College <a href="https://www.colby.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1> 
+- Data Science Summer Research Assistant @ Colby College <a href="https://www.colby.edu/research/"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1>  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khadka-Bishal&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
