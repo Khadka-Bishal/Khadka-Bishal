@@ -41,9 +41,6 @@
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
       </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-      </a>
     </td>
   </tr>
   
@@ -65,15 +62,18 @@
   <tr>
     <td>Databases</td>
     <td>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="120" height="40"/>
-      </a>
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-      </a>
-      <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>
-      </a>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img align="center" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="120" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="120" height="40"/>
+</a>
+<a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_couchdb_logo_icon_168621.png" alt="CouchDB" width="120" height="40"/>
+</a>
     </td>
   </tr>
   
@@ -82,9 +82,6 @@
     <td>
       <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
       </a>
       <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img align="center" src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png" alt="Nginx" width="80" height="40"/>
@@ -95,6 +92,9 @@
   <tr>
     <td>Tools</td>
     <td>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
+      </a>
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
       </a>
