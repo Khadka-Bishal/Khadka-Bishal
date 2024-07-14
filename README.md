@@ -116,7 +116,3 @@
 
 - Teaching Assistant & Tutor @ Colby College <a href="https://www.colby.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1> 
 - Data Science Summer Research Assistant @ Colby College <a href="https://www.colby.edu/research/"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1>  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khadka-Bishal&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
