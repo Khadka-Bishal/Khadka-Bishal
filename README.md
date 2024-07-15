@@ -23,6 +23,9 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
       </a>
+      <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://static-00.iconduck.com/assets.00/rust-icon-512x512-vx269b2s.png" alt="Rust" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   
