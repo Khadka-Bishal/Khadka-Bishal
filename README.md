@@ -108,11 +108,72 @@
   </tr>
 </table>
 
-### 🧑‍💻Know About My Experiences
-- Student Web Developer @ Colby College <a href="https://www.colby.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1> 
-- Software Developer Intern @ National Innovation Center <a href="https://nicnepal.org"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHqzP-gRVgF2IiysYmyi-TEihKgAHhFYwag&s" alt="GFW" height="40" width="80" /></a> </h1>
-- Data Analytics Intern @ Global Forest Watch <a href="https://www.globalforestwatch.org"><img align="center" src="https://content.globalforestwatch.org/wp-content/uploads/2020/06/Group-11@2x-1.png" alt="GFW" height="40" width="40" /></a> </h1>
-- Computer Science Research Assistant @ Colby College <a href="https://www.colby.edu/research/"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1>  
 
-- Teaching Assistant & Tutor @ Colby College <a href="https://www.colby.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1> 
-- Data Science Summer Research Assistant @ Colby College <a href="https://www.colby.edu/research/"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1>  
+
+### 🧑‍💻Know About My Experiences
+
+<table>
+  <tr>
+    <td>Position</td>
+    <td>Company</td>
+  </tr>
+
+  
+  <tr>
+    <td>Software Developer Intern</td>
+    <td>
+      <a href="https://nicnepal.org">National Innovation Center</a>
+      <a href="https://nicnepal.org" target="_blank" rel="noreferrer">
+        <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHqzP-gRVgF2IiysYmyi-TEihKgAHhFYwag&s" alt="NIC" height="40" width="80" />
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td>Data Intern</td>
+    <td>
+      <a href="https://www.globalforestwatch.org">Global Forest Watch</a>
+      <a href="https://www.globalforestwatch.org" target="_blank" rel="noreferrer">
+        <img align="center" src="https://content.globalforestwatch.org/wp-content/uploads/2020/06/Group-11@2x-1.png" alt="GFW" height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Student Web Developer</td>
+    <td>
+      <a href="https://www.colby.edu">Colby College</a>
+      <a href="https://www.colby.edu" target="_blank" rel="noreferrer">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Computer Science Research Assistant</td>
+    <td>
+      <a href="https://www.colby.edu/research/">Colby College</a>
+      <a href="https://www.colby.edu/research/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Teaching Assistant & Tutor</td>
+    <td>
+      <a href="https://www.colby.edu">Colby College</a>
+      <a href="https://www.colby.edu" target="_blank" rel="noreferrer">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Summer Research Assistant</td>
+    <td>
+      <a href="https://www.colby.edu/research/">Colby College</a>
+      <a href="https://www.colby.edu/research/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
