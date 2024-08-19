@@ -24,7 +24,7 @@
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
       </a>
       <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://static-00.iconduck.com/assets.00/rust-icon-512x512-vx269b2s.png" alt="Rust" width="40" height="40"/>
+        <img align="center" src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40"/>
       </a>
     </td>
   </tr>
