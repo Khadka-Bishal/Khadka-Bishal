@@ -5,7 +5,7 @@
 ### About Me
 
 - 👋 Hi, I'm Bishal! I'm a software developer.
-- 🎓 BA in CS and Maths @ Colby || Incoming Visiting Student in CS and Maths at Oxford University
+- 🎓 BA in CS and Maths @ Colby'26 || Visiting Student in CS and Maths at University of Oxford'25
 - 🛠️ I’m currently learning Rust, Bash, and Computer Networks
 
 
