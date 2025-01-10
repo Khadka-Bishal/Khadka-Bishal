@@ -141,7 +141,7 @@
     </td>
   </tr>
   <tr>
-    <td>Student Web Developer</td>
+    <td>Web Developer</td>
     <td>
       <a href="https://www.colby.edu">Colby College</a>
       <a href="https://www.colby.edu" target="_blank" rel="noreferrer">
@@ -160,7 +160,7 @@
   </tr>
   
   <tr>
-    <td>Teaching Assistant & Tutor</td>
+    <td>Undergraduate Teaching Assistant & Tutor</td>
     <td>
       <a href="https://www.colby.edu">Colby College</a>
       <a href="https://www.colby.edu" target="_blank" rel="noreferrer">
@@ -170,7 +170,7 @@
   </tr>
   
   <tr>
-    <td>Summer Research Assistant</td>
+    <td>Engineering Research Assistant</td>
     <td>
       <a href="https://www.colby.edu/research/">Colby College</a>
       <a href="https://www.colby.edu/research/" target="_blank" rel="noreferrer">
