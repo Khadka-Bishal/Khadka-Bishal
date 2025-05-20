@@ -145,7 +145,7 @@
     <td>
       <a href="https://www.colby.edu">Colby College</a>
       <a href="https://www.colby.edu" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Colby_college_maine_seal.svg/1200px-Colby_college_maine_seal.svg.png" alt="Colby" height="40" width="40" />
       </a>
     </td>
   </tr>
@@ -154,7 +154,7 @@
     <td>
       <a href="https://www.colby.edu/research/">Colby College</a>
       <a href="https://www.colby.edu/research/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Colby_college_maine_seal.svg/1200px-Colby_college_maine_seal.svg.png" alt="Colby" height="40" width="40" />
       </a>
     </td>
   </tr>
@@ -164,7 +164,7 @@
     <td>
       <a href="https://www.colby.edu">Colby College</a>
       <a href="https://www.colby.edu" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Colby_college_maine_seal.svg/1200px-Colby_college_maine_seal.svg.png" alt="Colby" height="40" width="40" />
       </a>
     </td>
   </tr>
@@ -174,7 +174,7 @@
     <td>
       <a href="https://www.colby.edu/research/">Colby College</a>
       <a href="https://www.colby.edu/research/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Colby_college_maine_seal.svg/1200px-Colby_college_maine_seal.svg.png" alt="Colby" height="40" width="40" />
       </a>
     </td>
   </tr>
