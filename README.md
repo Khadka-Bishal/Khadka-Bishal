@@ -120,7 +120,16 @@
     <td>Position</td>
     <td>Company</td>
   </tr>
-
+  <tr>
+    <td>Software Engineer Intern</td>
+    <td>
+      <a href="https://www.samsara.com/">Samsara</a>
+      <a href="https://www.samsara.com/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://images.ctfassets.net/bx9krvy0u3sx/2r27Vnqtd8g4nccDo4zzic/1b726e5612c250437c187d66080091d7/Samsara_Vertical_Logo_Navy.jpg?w=2160&fm=webp&q=80" alt="Samsara" height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+    <tr>
   
   <tr>
     <td>Software Developer Intern</td>
