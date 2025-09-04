@@ -23,8 +23,12 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
       </a>
-      <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40"/>
+      <!-- Added from skills -->
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+      </a>
+      <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -59,6 +63,13 @@
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img align="center" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
       </a>
+      <!-- Added from skills -->
+      <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
+      </a>
+      <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   
@@ -66,17 +77,18 @@
     <td>Databases</td>
     <td>
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="120" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="120" height="40"/>
-</a>
-<a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_couchdb_logo_icon_168621.png" alt="CouchDB" width="120" height="40"/>
-</a>
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+      </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="120" height="40"/>
+      </a>
+      <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_couchdb_logo_icon_168621.png" alt="CouchDB" width="120" height="40"/>
+      </a>
+      <!-- Added from skills -->
+      <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://cdn.worldvectorlogo.com/logos/amazon-dynamodb.svg" alt="DynamoDB" width="80" height="40"/>
+      </a>
     </td>
   </tr>
   
@@ -88,6 +100,16 @@
       </a>
       <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img align="center" src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png" alt="Nginx" width="80" height="40"/>
+      </a>
+      <!-- Added from skills -->
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+      </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+      </a>
+      <a href="https://www.kernel.org/linux.html" target="_blank" rel="noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux/UNIX" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -101,16 +123,13 @@
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
       </a>
-      <a href="https://jupyter.org" target="_blank" rel="noreferrer">
-        <img align="center" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40"/>
-      </a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+      <!-- Added from skills -->
+      <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
       </a>
     </td>
   </tr>
 </table>
-
 
 
 ### 🧑‍💻Know About My Experiences
