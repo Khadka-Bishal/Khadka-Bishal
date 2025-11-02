@@ -87,7 +87,7 @@
       </a>
       <!-- Added from skills -->
       <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://cdn.worldvectorlogo.com/logos/amazon-dynamodb.svg" alt="DynamoDB" width="80" height="40"/>
+        <img align="center" src="https://isagebrum.com/images/technology/dynamo_db-image.svg" alt="DynamoDB" width="80" height="40"/>
       </a>
     </td>
   </tr>
