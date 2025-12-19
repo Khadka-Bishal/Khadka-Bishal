@@ -13,8 +13,9 @@
 
 ### Education
 
-- BA in CS and Maths @ Colby || Visiting Student in CS and Maths at University of Oxford
+>BA in CS and Maths @ Colby || Visiting Student in CS and Maths @ University of Oxford
 
+### Tech Stack
 > **Languages**  
 > ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 > ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
