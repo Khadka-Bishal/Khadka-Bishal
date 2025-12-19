@@ -1,210 +1,63 @@
-<h1 align="center">👋 Hi, I'm Bishal Khadka <a href="https://www.linkedin.com/in/khadka-bishal/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" height="25" width="25" /></a> </h1> 
+<h1 align="center">👋 Hi, I'm Bishal Khadka 
+  <a href="https://www.linkedin.com/in/khadka-bishal/">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" height="25" width="25" />
+  </a>
+</h1> 
 
-<p align = "center"> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=350&width=300&lines=A+SOFTWARE+DEVELOPER" alt="SOFTWARE ENGINEER" /></a> </p>
-
-### About Me
-
-- 👋 Hi, I'm Bishal! I'm a software developer.
-- 🎓 BA in CS and Maths @ Colby'26 || Visiting Student in CS and Maths at University of Oxford'25
-- 🛠️ I’m currently learning Rust, Bash, and Computer Networks
-
-
-### ⚡ Languages and Frameworks
-<table>
-  <tr>
-    <td>Programming Languages</td>
-    <td>
-      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java" width="70" height="40"/>
-      </a>
-      <a href="https://www.python.org" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      </a>
-      <!-- Added from skills -->
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-      </a>
-      <a href="https://go.dev/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Frontend</td>
-    <td>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Backend</td>
-    <td>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img align="center" src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" alt="Node.js" width="100" height="40"/>
-      </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="120" height="40"/>
-      </a>
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-      </a>
-      <!-- Added from skills -->
-      <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-      </a>
-      <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Databases</td>
-    <td>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="120" height="40"/>
-      </a>
-      <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_couchdb_logo_icon_168621.png" alt="CouchDB" width="120" height="40"/>
-      </a>
-      <!-- Added from skills -->
-      <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://isagebrum.com/images/technology/dynamo_db-image.svg" alt="DynamoDB" width="80" height="40"/>
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>DevOps</td>
-    <td>
-      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-      </a>
-      <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img align="center" src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png" alt="Nginx" width="80" height="40"/>
-      </a>
-      <!-- Added from skills -->
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-      </a>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-      </a>
-      <a href="https://www.kernel.org/linux.html" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux/UNIX" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Tools</td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
-      </a>
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-      </a>
-      <!-- Added from skills -->
-      <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=350&width=300&lines=A+SOFTWARE+DEVELOPER" alt="SOFTWARE ENGINEER" />
+  </a>
+</p>
 
 
-### 🧑‍💻Know About My Experiences
+### Education
 
-<table>
-  <tr>
-    <td>Position</td>
-    <td>Company</td>
-  </tr>
-  <tr>
-    <td>Software Engineer Intern</td>
-    <td>
-      <a href="https://www.samsara.com/">Samsara</a>
-      <a href="https://www.samsara.com/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://images.ctfassets.net/bx9krvy0u3sx/2r27Vnqtd8g4nccDo4zzic/1b726e5612c250437c187d66080091d7/Samsara_Vertical_Logo_Navy.jpg?w=2160&fm=webp&q=80" alt="Samsara" height="40" width="40" />
-      </a>
-    </td>
-  </tr>
-    <tr>
-  
-  <tr>
-    <td>Software Developer Intern</td>
-    <td>
-      <a href="https://nicnepal.org">National Innovation Center</a>
-      <a href="https://nicnepal.org" target="_blank" rel="noreferrer">
-        <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHqzP-gRVgF2IiysYmyi-TEihKgAHhFYwag&s" alt="NIC" height="40" width="80" />
-      </a>
-    </td>
-  </tr>
-    <tr>
-    <td>Data Intern</td>
-    <td>
-      <a href="https://www.globalforestwatch.org">Global Forest Watch</a>
-      <a href="https://www.globalforestwatch.org" target="_blank" rel="noreferrer">
-        <img align="center" src="https://content.globalforestwatch.org/wp-content/uploads/2020/06/Group-11@2x-1.png" alt="GFW" height="40" width="40" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Web Developer</td>
-    <td>
-      <a href="https://www.colby.edu">Colby College</a>
-      <a href="https://www.colby.edu" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Colby_college_maine_seal.svg/1200px-Colby_college_maine_seal.svg.png" alt="Colby" height="40" width="40" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Computer Science Research Assistant</td>
-    <td>
-      <a href="https://www.colby.edu/research/">Colby College</a>
-      <a href="https://www.colby.edu/research/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Colby_college_maine_seal.svg/1200px-Colby_college_maine_seal.svg.png" alt="Colby" height="40" width="40" />
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Undergraduate Teaching Assistant & Tutor</td>
-    <td>
-      <a href="https://www.colby.edu">Colby College</a>
-      <a href="https://www.colby.edu" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Colby_college_maine_seal.svg/1200px-Colby_college_maine_seal.svg.png" alt="Colby" height="40" width="40" />
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Engineering Research Assistant</td>
-    <td>
-      <a href="https://www.colby.edu/research/">Colby College</a>
-      <a href="https://www.colby.edu/research/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Colby_college_maine_seal.svg/1200px-Colby_college_maine_seal.svg.png" alt="Colby" height="40" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+- BA in CS and Maths @ Colby || Visiting Student in CS and Maths at University of Oxford
+
+> **Languages**  
+> ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+> ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+> ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+>
+> **Frontend**  
+> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+> 
+> **Backend & APIs**  
+> ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+> ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+> ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+> ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+> ![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+> 
+> **Databases**  
+> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+> ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+> ![CouchDB](https://img.shields.io/badge/-CouchDB-E42528?style=flat-square&logo=apachecouchdb&logoColor=white)
+> ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+> 
+> **Cloud & DevOps**  
+> ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+> ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+> 
+> **Tools & Testing**  
+> ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+> ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+> ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+
+### 🧑‍💻 Experience
+
+> **Software Engineer Intern — Samsara**  
+> **Software Developer Intern — National Innovation Center**  
+> **Computer Science & Engineering Research Assistant — Colby College**  
 
