@@ -11,7 +11,8 @@
 </p>
 
 ## Education
-BA in CS and Maths @ Colby || Visiting Student in CS and Maths @ University of Oxford
+Colby College - Bachelors (Computer Science + Mathematics)  
+University of Oxford - Visiting Student (Computer Science + Mathematics)
 
 ## Tech Stack
 **Languages**  
