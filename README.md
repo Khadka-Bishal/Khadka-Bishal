@@ -10,10 +10,10 @@
   </a>
 </p>
 
-### Education
+## Education
 BA in CS and Maths @ Colby || Visiting Student in CS and Maths @ University of Oxford
 
-### Tech Stack
+## Tech Stack
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -67,12 +67,12 @@ BA in CS and Maths @ Colby || Visiting Student in CS and Maths @ University of O
 ![LLM Orchestration](https://img.shields.io/badge/-LLM%20Orchestration-222222?style=flat-square)
 ![Tool Calling](https://img.shields.io/badge/-Tool%20Calling-222222?style=flat-square)
 
-### 🧑‍💻 Experience
+## 🧑‍💻 Experience
 - **Software Engineer Intern @ Samsara**  
 - **Software Developer Intern @ National Innovation Center**  
 - **Computer Science & Engineering Research Assistant @ Colby College**
 
-### 💻 Projects
+## 💻 Projects
 - **[compare-and-swap-queue](https://github.com/Khadka-Bishal/compare-and-swap-queue)** - lightweight, highly-available, distributed job queue via atomic CAS on a JSON file
 - **[DeepRecall](https://github.com/Khadka-Bishal/DeepRecall)** - RAG platform with an event-driven AWS serverless ingestion pipeline and a hybrid retrieval engine
 - **[secure-pr-agent](https://github.com/Khadka-Bishal/secure-pr-agent)** - local PR reviewer with AST-aware RAG + isolated sandbox runs
