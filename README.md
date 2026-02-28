@@ -11,8 +11,8 @@
 </p>
 
 ## Education
-Colby College - Bachelors (Computer Science + Mathematics)  
-University of Oxford - Visiting Student (Computer Science + Mathematics)
+**Colby College** - Bachelors (Computer Science + Mathematics)  
+**University of Oxford** - Visiting Student (Computer Science + Mathematics)
 
 ## Tech Stack
 **Languages**  
