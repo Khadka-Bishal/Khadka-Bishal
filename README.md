@@ -74,6 +74,8 @@
 - **Computer Science & Engineering Research Assistant @ Colby College**
 
 ## 💻 Projects
+
+- **[paddle-game](https://github.com/Khadka-Bishal/paddlegame)** - 2D paddle game in Python in Karpathy's autoresearch style environment that iteratively trains the model
 - **[compare-and-swap-queue](https://github.com/Khadka-Bishal/compare-and-swap-queue)** - lightweight, highly-available, distributed job queue via atomic CAS on a JSON file
 - **[DeepRecall](https://github.com/Khadka-Bishal/DeepRecall)** - RAG platform with an event-driven AWS serverless ingestion pipeline and a hybrid retrieval engine
 - **[secure-pr-agent](https://github.com/Khadka-Bishal/secure-pr-agent)** - local PR reviewer with AST-aware RAG + isolated sandbox runs
