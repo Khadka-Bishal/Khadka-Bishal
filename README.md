@@ -74,7 +74,7 @@
 - **Computer Science & Engineering Research Assistant @ Colby College**
 
 ## 💻 Projects
-- **[ai-algorithmic-art](https://khadka-bishal.github.io/ai-algorithmic-art/)** - a generative art experiment where AI writes and iterates on code and simulations to create abstract visuals
+- **[ai-algorithmic-art](https://khadka-bishal.github.io/ai-algorithmic-art/)** - a generative art experiment where AI writes and iterates on code to create abstract visuals
 - **[paddle-game](https://github.com/Khadka-Bishal/paddlegame)** - 2D paddle game in Python in Karpathy's autoresearch style environment that iteratively trains the model
 - **[compare-and-swap-queue](https://github.com/Khadka-Bishal/compare-and-swap-queue)** - lightweight, highly-available, distributed job queue via atomic CAS on a JSON file
 - **[DeepRecall](https://github.com/Khadka-Bishal/DeepRecall)** - RAG platform with an event-driven AWS serverless ingestion pipeline and a hybrid retrieval engine
